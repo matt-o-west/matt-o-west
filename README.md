@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Matt, I'm a CS student at Oregon State. I love learning and picking up new technologies to build cool solutions! I'm always looking to collaborate on projects I'm passionate about, or on upcoming hackathons. If you want to see some  personal projects, please check out this ['link-in-bio' developer profile platform](https://github.com/matt-o-west/dev-links), or this [community-driven dictionary app with voting features](https://github.com/matt-o-west/jolt-word). 
+My name is Matt, I'm a CS student at Oregon State. I love learning and picking up new technologies to build software! I'm always looking to collaborate on projects I'm passionate about, or on upcoming hackathons. If you want to see some  personal projects, please check out this ['link-in-bio' developer profile platform](https://github.com/matt-o-west/dev-links), or this [community-driven dictionary app with voting features](https://github.com/matt-o-west/jolt-word). 
 
 Fun fact about me ✨ in a past life, I worked on television as a grip and cinematographer, helping produce documentaries for National Geographic, and scenes for true-crime shows like See No Evil and Fear Thy Neighbor :).
 <!--
